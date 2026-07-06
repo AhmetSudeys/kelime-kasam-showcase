@@ -2,7 +2,7 @@
 <!-- ======================= HERO / BAŞLIK ======================= -->
 <div align="center">
 
-<img width="2048" height="2048" alt="logo_4@2x" src="https://github.com/user-attachments/assets/0424fcf9-e767-4813-8aeb-815cab59695f" alt="Kelime Kasası" width="110" style="border-radius:22px;" />
+<img src="https://github.com/user-attachments/assets/0424fcf9-e767-4813-8aeb-815cab59695f" alt="Kelime Kasası" width="110" style="border-radius:22px;" />
 
 # 🔐 Kelime Kasası
 ### İngilizce Kelimeleri *Tara · Anla · Hatırla*
