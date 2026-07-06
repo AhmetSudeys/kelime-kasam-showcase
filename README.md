@@ -66,6 +66,8 @@ https://github.com/user-attachments/assets/e66c390b-3ad1-40e1-8ca8-78f5654a581a
 
 Klasik sözlükleri ve sıkıcı ezber listelerini geride bırakın. **Kelime Kasası**, okuma esnasında karşılaştığınız bilmediğiniz İngilizce kelimeleri saniyeler içinde dijitalleştirir, yapay zeka ile bağlamını çözer ve bilimsel aralıklı tekrar algoritması sayesinde kalıcı hafızanıza kazır.
 
+İster akıllı kamerayla metinleri tarayıp kelimeleri saniyeler içinde kasanıza aktarın, isterseniz de kendi kelimelerinizi manuel olarak kaydedin. Sonrasında devreye giren **bilimsel SM-2 aralıklı tekrar algoritması**, kelimeleri tam unutmak üzere olduğunuz o kritik zaman diliminde karşınıza çıkarır; kendinizi test ederek bilgiyi kısa süreli bellekten kalıcı hafızanıza kilitlemenizi sağlar.
+
 Google Play Store üzerinden canlı yayında olan uygulama; güncel Android mimarisi, sade ve kullanıcı dostu arayüzü ve çevrimdışı çalışma yeteneğiyle dil öğrenmeyi zahmetsiz bir günlük alışkanlığa dönüştürür.
 
 <br/>
