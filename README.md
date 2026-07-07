@@ -48,23 +48,17 @@ yapay zeka ile bağlamını çözün, bilimsel aralıklı tekrar ile kalıcı ha
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b7a99c01-a153-4a94-8e7f-761d83e926cc" width="48%" />
-  <img src="https://github.com/user-attachments/assets/0ef959a8-ba59-455b-b2db-a5eb03317924" width="48%" />
+  <img src="https://github.com/user-attachments/assets/b7a99c01-a153-4a94-8e7f-761d83e926cc" width="23%" />
+  <img src="https://github.com/user-attachments/assets/0ef959a8-ba59-455b-b2db-a5eb03317924" width="23%" />
+  <img src="https://github.com/user-attachments/assets/c2299ac7-c18b-4206-b163-bcca07699409" width="23%" />
+  <img src="https://github.com/user-attachments/assets/41ccd82a-0db6-460d-a342-3c89ace25780" width="23%" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c2299ac7-c18b-4206-b163-bcca07699409" width="48%" />
-  <img src="https://github.com/user-attachments/assets/41ccd82a-0db6-460d-a342-3c89ace25780" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/dbc674bf-1349-460f-bd10-1588263cd5d5" width="48%" />
-  <img src="https://github.com/user-attachments/assets/9c993d3a-b048-431d-9bc4-f146ca7247a5" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d274cba7-a86b-4b92-b65b-9b8baf618db2" width="48%" />
-  <img src="https://github.com/user-attachments/assets/37668361-9e6e-4045-9583-8303609949fc" width="48%" />
+  <img src="https://github.com/user-attachments/assets/dbc674bf-1349-460f-bd10-1588263cd5d5" width="23%" />
+  <img src="https://github.com/user-attachments/assets/9c993d3a-b048-431d-9bc4-f146ca7247a5" width="23%" />
+  <img src="https://github.com/user-attachments/assets/d274cba7-a86b-4b92-b65b-9b8baf618db2" width="23%" />
+  <img src="https://github.com/user-attachments/assets/37668361-9e6e-4045-9583-8303609949fc" width="23%" />
 </p>
 <br/>
 
