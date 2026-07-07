@@ -70,7 +70,7 @@ yapay zeka ile bağlamını çözün, bilimsel aralıklı tekrar ile kalıcı ha
 <div align="center">
 
 
-https://github.com/user-attachments/assets/5ac88e5b-7e4f-4298-902c-0aa820765b52
+https://github.com/user-attachments/assets/6b3cb3f7-13ef-46bb-b027-8b8146e5cc9f
 
 
 </div>
