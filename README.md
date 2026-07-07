@@ -47,6 +47,8 @@ yapay zeka ile bağlamını çözün, bilimsel aralıklı tekrar ile kalıcı ha
   <img src="https://github.com/user-attachments/assets/83b6755a-52b4-43e7-a0b3-06220c1878eb" width="15.5%" />
 </p>
 
+--------------------------------------------------------------------------------------------------------------
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b7a99c01-a153-4a94-8e7f-761d83e926cc" width="23%" />
   <img src="https://github.com/user-attachments/assets/0ef959a8-ba59-455b-b2db-a5eb03317924" width="23%" />
