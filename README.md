@@ -140,6 +140,6 @@ Proje, modern Android geliştirme standartlarına ve en iyi uygulama modellerine
        alt="Google Play'den İndirin" height="70" />
 </a>
 
-<sub>© 2026 Kelime Kasası · Kotlin & Jetpack Compose ile ❤️ ile geliştirildi</sub>
+<sub>© 2026 Kelime Kasası · Kotlin & Jetpack Compose ile ❤️ ile geliştirildi.</sub>
 
 </div>
